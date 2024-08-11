@@ -11,8 +11,11 @@ public class SaverLoader
     public void Load() =>
         Progress = PlayerPrefs.GetString(ProgressKey) == null || PlayerPrefs.GetString(ProgressKey).Length == 0 ? new() : PlayerPrefs.GetString(ProgressKey).FromJson<UserProgressData>();
 
-    public void Save() =>
+    public void Save()
+    {
         PlayerPrefs.SetString(ProgressKey, Progress.ToJson());
+        Debug.Log(Progress.ToJson());
+    }
 
     public void Reset()
     {

@@ -9,6 +9,6 @@ public class AppInstasller : MonoInstaller
     public override void InstallBindings()
     {
         Container.Bind<SaverLoader>().FromNew().AsSingle().NonLazy();
-        Container.Bind<LanguagesContainer>().FromInstance(_languagesContainer).AsSingle().NonLazy();
+        //////Container.Bind<LanguagesContainer>().FromInstance(_languagesContainer).AsSingle().NonLazy();
     }
 }
