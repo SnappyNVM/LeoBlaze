@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3f2630266e63d94d9b5ebb23e6134a1, type: 3}
+  m_Name: Cake
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Curd cake with frozen berries
+  <TimeInMinutes>k__BackingField: 50
+  <MediaText>k__BackingField: "Ingredients:\nLong-grain rice - 2 cooking sachets
+    / 160 g\r\nPumpkin (pulp) - 300 g\r\nSalad mix - 100 g\r\nSesame seeds - 2 tbsp.\r\nOlive
+    oil - 3 tbsp.\r\nSpice mix, salt, pepper to taste\n\nCooking:\n1. Put the rice
+    into boiling salted water. Cook for 20 minutes after boiling again. Take the
+    cooked rice out of the bags, loosen.\n2. Cut the pumpkin into bite-sized pieces.
+    Pour 2 tablespoon olive oil into a bowl, add the spice mix, salt and pepper.
+    Put in the pumpkin pieces and stir. Bake the pumpkin in a preheated 180\xB0C
+    oven for 20 minutes or roast until soft for 15-20 minutes in a frying pan.\n3.
+    Roll the sesame seeds in a dry pan until golden.  \n4. Mix the pumpkin, rice
+    and salad mix. Dress the salad with olive oil and garnish with sesame seeds.
+    Cook with pleasure!\nIngredients:\nLong-grain rice - 2 cooking sachets / 160
+    g\r\nPumpkin (pulp) - 300 g\r\nSalad mix - 100 g\r\nSesame seeds - 2 tbsp.\r\nOlive
+    oil - 3 tbsp.\r\nSpice mix, salt, pepper to taste\n\nCooking:\n1. Put the rice
+    into boiling salted water. Cook for 20 minutes after boiling again. Take the
+    cooked rice out of the bags, loosen.\n2. Cut the pumpkin into bite-sized pieces.
+    Pour 2 tablespoon olive oil into a bowl, add the spice mix, salt and pepper.
+    Put in the pumpkin pieces and stir. Bake the pumpkin in a preheated 180\xB0C
+    oven for 20 minutes or roast until soft for 15-20 minutes in a frying pan.\n3.
+    Roll the sesame seeds in a dry pan until golden.  \n4. Mix the pumpkin, rice
+    and salad mix. Dress the salad with olive oil and garnish with sesame seeds.
+    Cook with pleasure!"
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 0461f220b998c484097a9b4a175e511e, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 21300000, guid: 1adbf816b9cbc264f8ca7a452b6ad63f, type: 3}
+  <Type>k__BackingField: 3
+  <Calories>k__BackingField: 132/100 g
