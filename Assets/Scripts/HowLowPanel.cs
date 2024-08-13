@@ -28,6 +28,7 @@ namespace Assets.Scripts
             _progress.Progress.Gender = _genderSellector.CurrentGender;
             _progress.Progress.Authorized = true;
             _progress.Save();
+            gameObject.SetActive(false);
         }
     }
 }

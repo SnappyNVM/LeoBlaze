@@ -6974,6 +6974,7 @@ MonoBehaviour:
   - {fileID: 1827430814}
   _startActiveId: 0
   _hasStartActive: 1
+  _hasStartActiveReverse: 0
   GroupObjectSwapped:
     m_PersistentCalls:
       m_Calls: []
