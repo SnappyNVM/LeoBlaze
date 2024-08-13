@@ -14,10 +14,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Foots massage
   <TimeInMinutes>k__BackingField: 15
-  <MediaText>k__BackingField: 
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
+  <MediaText>k__BackingField: "Step 1 \n\r\nRub the top of the foot with your thumbs.
+    Start at the tip of the toe and move slowly up to their ankle. Move back down
+    their foot, starting from their ankle. Apply firm pressure with your thumbs,
+    cupping their foot in your hands.\r\n\r\n    Move up and down their foot two
+    to three times. Keep their foot close to your chest area, with your body leaning
+    towards them. This will help you apply the right amount of pressure to their
+    foot.\r\n    Use the strength of your body weight, rather than the muscles in
+    your thumbs, to massage their feet. Using only the muscles in your thumbs can
+    cause them to cramp up and get tired easily.\r\n\r\nStep 2 Massage the arches
+    of the foot.\n\r\r\nMassage the arches of the foot. Use your thumbs to apply
+    light pressure to the arch of their foot, right below the ball of their foot.
+    Move one thumb clockwise and the other thumb counterclockwise in small circles.
+    Do this for at least 30 seconds.\r\n\r\n    Place your thumbs on opposite ends
+    of their foot and move them toward one another. Do this at least three to five
+    times, moving up and down the bottom of their feet.\r\n    Grip their feet with
+    firm pressure as you massage them. Light, soft touches can be ticklish to most
+    people and distract from the massage.\r\n    If the person has any sore spots
+    on their feet, do not put too much pressure on them as this can irritate the
+    area.\r\n\r\nStep 3 Rub the heels of the foot.\n\r\r\nRub the heels of the foot.
+    Move your thumbs up and down their Achilles tendon, which runs from the heel
+    and ankle up to the calf muscle. Rub the heel of their foot in circular motions
+    using your thumbs.\r\n\r\n    You may need to lift their foot up with one hand
+    so you can access their heel.\r\n    The skin on this area tends to be dry or
+    hard, so you can apply massage oil or lotion to your hands to help reduce any
+    friction.\r\n\r\nStep 4 Squeeze and pull each toe.\n\r\r\nSqueeze and pull each
+    toe. Hold their foot with one hand, right under the arch. With your other hand,
+    place your thumb on top of their big toe. Your index finger should be underneath
+    their big toe. Rotate the toe slightly to one side and pull the toe from top
+    to bottom. Go back to the top of the toe and squeeze it with your thumb and pointer
+    finger. Do this for each toe to help loosen and relax them.\r\n\r\n    Do not
+    yank on the person\u2019s toes, as this can injure them. Instead, simply rotate,
+    pull, and squeeze each toe slightly, applying even pressure.\r\n\r\nStep 5 Slide
+    up and down each toe with your fingers.\n\r\r\nSlide up and down each toe with
+    your fingers. Hold the foot with one hand, right behind the heel. Place the index
+    finger of your other hand between the person\u2019s toes. Slide your finger toward
+    the base of the toes and then back toward the end of the toes. Do this two to
+    three times between their toes.\r\n\r\n    Make sure you use your body weight
+    to apply even pressure as you slide up and down their toes.\r\n\r\nStep 6 Focus
+    on one foot at a time.\n\r\r\nFocus on one foot at a time. Leave the other foot
+    soaking in warm water or relaxed on the pillow. Do a basic massage on one foot
+    first and then turn your attention to the other foot. Repeat the same movements
+    for each foot so that they both feel equally relaxed. "
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: 6a68e97165ffd364281ea1d0d00bd5aa, type: 3}
   <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: aec3cb19bde6d104e8eb3a524466f246, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 6
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: fee1e4c9f95a03d4aa52fe344f979061, type: 3}
   <BodyPartIcon>k__BackingField: {fileID: 21300000, guid: 3202261eec7657e49bc9bd34f397ed5e, type: 3}

@@ -14,29 +14,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Curd cake with frozen berries
   <TimeInMinutes>k__BackingField: 50
-  <MediaText>k__BackingField: "Ingredients:\nLong-grain rice - 2 cooking sachets
-    / 160 g\r\nPumpkin (pulp) - 300 g\r\nSalad mix - 100 g\r\nSesame seeds - 2 tbsp.\r\nOlive
-    oil - 3 tbsp.\r\nSpice mix, salt, pepper to taste\n\nCooking:\n1. Put the rice
-    into boiling salted water. Cook for 20 minutes after boiling again. Take the
-    cooked rice out of the bags, loosen.\n2. Cut the pumpkin into bite-sized pieces.
-    Pour 2 tablespoon olive oil into a bowl, add the spice mix, salt and pepper.
-    Put in the pumpkin pieces and stir. Bake the pumpkin in a preheated 180\xB0C
-    oven for 20 minutes or roast until soft for 15-20 minutes in a frying pan.\n3.
-    Roll the sesame seeds in a dry pan until golden.  \n4. Mix the pumpkin, rice
-    and salad mix. Dress the salad with olive oil and garnish with sesame seeds.
-    Cook with pleasure!\nIngredients:\nLong-grain rice - 2 cooking sachets / 160
-    g\r\nPumpkin (pulp) - 300 g\r\nSalad mix - 100 g\r\nSesame seeds - 2 tbsp.\r\nOlive
-    oil - 3 tbsp.\r\nSpice mix, salt, pepper to taste\n\nCooking:\n1. Put the rice
-    into boiling salted water. Cook for 20 minutes after boiling again. Take the
-    cooked rice out of the bags, loosen.\n2. Cut the pumpkin into bite-sized pieces.
-    Pour 2 tablespoon olive oil into a bowl, add the spice mix, salt and pepper.
-    Put in the pumpkin pieces and stir. Bake the pumpkin in a preheated 180\xB0C
-    oven for 20 minutes or roast until soft for 15-20 minutes in a frying pan.\n3.
-    Roll the sesame seeds in a dry pan until golden.  \n4. Mix the pumpkin, rice
-    and salad mix. Dress the salad with olive oil and garnish with sesame seeds.
-    Cook with pleasure!"
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 0461f220b998c484097a9b4a175e511e, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: 1adbf816b9cbc264f8ca7a452b6ad63f, type: 3}
+  <MediaText>k__BackingField: "It is necessary\r\n\r\n    - cottage cheese - 50 g;\r\n   
+    - chicken egg - 4 pcs.;\r\n    - sugar - 150 g;\r\n    - wheat flour - 150 g;\r\n   
+    - butter - 50 g;\r\n    - berries - 250 g;\r\n    - baking powder - 8 g;\r\n   
+    - vanilla essence - optional.\r\n\r\nInstructions\r\nStep 1\r\n\r\nFirst, you
+    need to prepare the dough for the curd cake. To do this, combine chicken eggs
+    with sugar, then beat with a mixer until you get a fluffy and light mass. Also,
+    a small amount of vanilla essence must be added to this mixture.\r\nStep 2\r\n\r\nThen
+    add cottage cheese, melted butter to this mass and beat well again.\r\nStep 3\r\n\r\nCombine
+    flour with baking powder and sift, then pour a small stream into the curd mass,
+    mix the dough with gentle movements. It is best to do this with a spatula, if
+    you do it with a mixer, then the cake can turn out to be very dense in structure.\r\nStep
+    4\r\n\r\nGrease a bowl of a multicooker with oil and sprinkle with a small amount
+    of wheat flour, then put the prepared dough, spread the berries on top. For this
+    curd cake, you can use any assortment of berries, for example, strawberries,
+    raspberries, strawberries or currants. You can also add nectarine or peach to
+    your cupcake, however a large amount of berries and fruits can make your cupcake
+    soft.\r\nStep 5\r\n\r\nPlace the bowl with the curd cake in the multicooker,
+    turn on the appropriate Baking mode and leave for an hour. After the indicated
+    time, check the readiness of your cake. It is best done with a wooden stick,
+    which should be dry until the middle of the cake. If necessary, add more time
+    and bake the curd cake with berries until tender."
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: d4914351c9bc0b74688424354ad124b5, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 01086af61f3f57b40be9e75028d54327, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 21300000, guid: 411b3932d1e0fa949b7d34ec0134e125, type: 3}
   <Type>k__BackingField: 3
   <Calories>k__BackingField: 132/100 g

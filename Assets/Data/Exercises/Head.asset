@@ -13,11 +13,31 @@ MonoBehaviour:
   m_Name: Head
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Head massage
-  <TimeInMinutes>k__BackingField: 20
-  <MediaText>k__BackingField: 
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
+  <TimeInMinutes>k__BackingField: 15
+  <MediaText>k__BackingField: "\rStep 1\n\nGo slowly. When massaging the person's
+    head, try to go in slow, gentle strokes. Slow strokes generally feel better than
+    fast movements. Also, slow movements tend to be much more relaxing than faster
+    movements.\r\nFor this type of massage, it's fine for the person to be sitting
+    up or lying down.\r\n\r\nStep 2 Work in small circles.\n\r\r\nWork in small circles.
+    Using your fingertips, make light circular motions across the person's head.
+    Move from back to front and then front to back. You can go over the head a couple
+    of times with this motion.\n\r\nStep 3 Massage the neck.\n\r\r\nMassage the neck.
+    With one hand, cup the person's neck. Gently rub the neck with the thumb on one
+    side and the other fingers on the opposite side. Move up and down the neck. Try
+    to move the skin as you massage instead of rubbing on top of the skin.\r\nYou
+    can also use this motion at the base of the head where the hair begins.\r\nIf
+    you're massaging yourself, use your thumbs at the base of your head. With one
+    thumb on each side of your head, use circular motions to massage the base of
+    your head. You carry a lot of tension here, so some slow massaging can help.\n\r\nStep
+    4 Massage the head with the heels of your palms.\n\r\r\nMassage the head with
+    the heels of your palms. Run your hands under the hair near the temples. You
+    can use this technique on another person, but it works just as well doing it
+    on yourself. The heels of your palms should end up over the temples. Apply light
+    pressure, and push upward for a few seconds. You can use this technique all over
+    the head.\r\n"
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: 00f6e3fa193791e48b96d2121d76f8e7, type: 3}
   <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: aec3cb19bde6d104e8eb3a524466f246, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 5
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: 8107daa7e3e5e4249b711de4c05bf1e5, type: 3}
   <BodyPartIcon>k__BackingField: {fileID: 21300000, guid: bbd9b6df2e9efab40a184d77dc1ed292, type: 3}

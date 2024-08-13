@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
@@ -19,7 +20,7 @@ public class VideoPanel : MonoBehaviour
 
     public void Show()
     {
-        _pressToPlayButton.gameObject.SetActive(false);
+        StartCoroutine(PlayButtonDisable());
         PlayTheVideo();
     }
 
@@ -40,4 +41,10 @@ public class VideoPanel : MonoBehaviour
 
     public void TenSecondsBackward() =>
         _player.time = _player.time - 10;
+    
+    private IEnumerator PlayButtonDisable()
+    {
+        yield return new WaitForSeconds(0.2f);
+        _pressToPlayButton.gameObject.SetActive(false);
+    }
 }

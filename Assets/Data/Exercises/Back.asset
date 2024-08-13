@@ -14,10 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Back massage
   <TimeInMinutes>k__BackingField: 25
-  <MediaText>k__BackingField: 
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
+  <MediaText>k__BackingField: "How do I give a back massage?\r\n\r\nYou can use lotion,
+    cocoa butter, oil, or lanolin for a massage.\r\n\r\n    Put a small amount of
+    warm lotion or oil on your hands. Rub your hands together so the lotion is spread
+    evenly on your hands.\r\n    Move your hands slowly during the massage to help
+    the person relax.\r\n    Start massaging the back at the lower back. Move your
+    hands upward on both sides of the spine all the way to the shoulders.\r\n   
+    Make a circular motion as you move your hands upward. Press a bit more firmly
+    with your thumbs as you make the circles.\r\n    Move across the shoulders and
+    start moving down the upper arms. Use less pressure as you move downward.\r\n   
+    Ask if you are applying too much or too little pressure as you massage. Ask the
+    person to tell you if he feels pain in any area. Do not massage a painful area,
+    or massage it very gently.\r\n    Apply more lotion on your hands as needed.\r"
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: 170470d459b5dc0409cd71e62726aabf, type: 3}
   <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: aec3cb19bde6d104e8eb3a524466f246, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 10
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: 8107daa7e3e5e4249b711de4c05bf1e5, type: 3}
   <BodyPartIcon>k__BackingField: {fileID: 21300000, guid: 636bd365e1c079147bb5be8a1bbb7462, type: 3}
