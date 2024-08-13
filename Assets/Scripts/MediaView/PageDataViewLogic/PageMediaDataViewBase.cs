@@ -13,14 +13,14 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
     [SerializeField] protected TMP_Text _typeView;
     [SerializeField] protected Image _iconView;
     [Header("Views when media opened")]
-    [SerializeField] protected TMP_Text _headerNameView;
-    [SerializeField] protected TMP_Text _mediaTextView;
-    [SerializeField] protected TMP_Text _timeInPage;
-    [SerializeField] protected RectTransform _textScrollRectContent;
-    [SerializeField] protected Image _videoIconView;
-    [SerializeField] protected TMP_Text _typeInPageView;
-    [SerializeField] protected VideoPanel _videoPanel;
-    [SerializeField] protected GameObject _specialRecipeOnPageStuff;
+    [SerializeField] public TMP_Text _headerNameView;
+    [SerializeField] public TMP_Text _mediaTextView;
+    [SerializeField] public TMP_Text _timeInPage;
+    [SerializeField] public RectTransform _textScrollRectContent;
+    [SerializeField] public Image _videoIconView;
+    [SerializeField] public TMP_Text _typeInPageView;
+    [SerializeField] public VideoPanel _videoPanel;
+    [SerializeField] public GameObject _specialRecipeOnPageStuff;
 
     public virtual void UnboxMediaViewInList()
     {

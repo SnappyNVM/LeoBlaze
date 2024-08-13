@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 [Serializable]
 public class UserProgressData
@@ -8,4 +9,5 @@ public class UserProgressData
     public int Weight = 0;
     public Gender Gender = Gender.Male;
     public bool Authorized = false;
+    public List<int> RecipesId = new();
 }

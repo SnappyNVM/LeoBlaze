@@ -5,7 +5,7 @@ public sealed class RecipeDataView : PageMediaDataViewBase
 {
     [Header("Additional")]
     [SerializeField] private TMP_Text _caloriesOnLine;
-    [SerializeField] private TMP_Text _caloriesOnPage;
+    [SerializeField] public TMP_Text _caloriesOnPage;
 
     private RecipePageMediaData Data => _core.Data as RecipePageMediaData;
 

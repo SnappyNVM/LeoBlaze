@@ -2,10 +2,11 @@
 
 public abstract class PageMediaCoreBase : MonoBehaviour
 {
-    [field: SerializeField] public PageMediaPackDataBase Data { get; protected set; }
+    [field: SerializeField] public PageMediaPackDataBase Data { get; set; }
 
     [SerializeField] protected PageMediaDataViewBase _view;
 
+    public PageMediaDataViewBase View => _view;
     public bool SearchDisplayable { get; set; } = true;
 
     public virtual void Initialize()
