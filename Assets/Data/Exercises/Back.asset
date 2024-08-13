@@ -27,7 +27,7 @@ MonoBehaviour:
     person to tell you if he feels pain in any area. Do not massage a painful area,
     or massage it very gently.\r\n    Apply more lotion on your hands as needed.\r"
   <MediaVideo>k__BackingField: {fileID: 32900000, guid: 170470d459b5dc0409cd71e62726aabf, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 3fb197dee18cf1c46964f4a81946f86d, type: 3}
   <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 10
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: 8107daa7e3e5e4249b711de4c05bf1e5, type: 3}

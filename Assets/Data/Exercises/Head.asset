@@ -36,7 +36,7 @@ MonoBehaviour:
     pressure, and push upward for a few seconds. You can use this technique all over
     the head.\r\n"
   <MediaVideo>k__BackingField: {fileID: 32900000, guid: 00f6e3fa193791e48b96d2121d76f8e7, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: a2e54ac2f8bef424e8447073a3a4074d, type: 3}
   <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 5
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: 8107daa7e3e5e4249b711de4c05bf1e5, type: 3}
