@@ -12,12 +12,50 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd9fc4e120363c44494b563096b270ea, type: 3}
   m_Name: Body
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Body massage
-  <TimeInMinutes>k__BackingField: 10
-  <MediaText>k__BackingField: 
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: aec3cb19bde6d104e8eb3a524466f246, type: 3}
+  <Name>k__BackingField: Bridge
+  <TimeInMinutes>k__BackingField: 5
+  <MediaText>k__BackingField: "Step 1\n\r\nLie on your back. Bridge pose, or short
+    bridge, is a beginner backbend exercise that\u2019s common in yoga and Pilates.
+    It\u2019s not nearly as strenuous as the full gymnastics bridge. It is performed
+    on the ground, and the shoulders never leave the floor, so it\u2019s a good move
+    for beginners.\r\n\r\n    Bridge pose is good for stretching the spine, neck,
+    thighs, and hip flexors.\r\n    This exercise will work best if you're on a cushioned
+    but firm surface, such as a carpeted area or an exercise mat on the floor.\r\n\r\nStep
+    2 Bend your knees.\r\r\n\r\nBend your knees. While on your back, bend your knees
+    to bring your feet in toward your bum. Make sure you keep the soles of your feet
+    flat on the ground and your knees shoulder-width apart.\n\r\nStep 3 Extend your
+    arms out beside your body.\r\n\r\nExtend your arms out beside your body. Keep
+    your palms flat on the ground. If your fingers can't touch your heels, bring
+    your feet in closer.\n\r\nStep 4 Lift off the ground.\r\n\r\r\nLift off the ground.
+    In bridge pose, your feet, shoulders, arms, and hands stay on the ground. Push
+    into the ground equally with these parts to lift the rest of your body off the
+    ground. You want your legs, hips, buttocks, and back to come off the ground and
+    raise toward the ceiling.\n\r\nStep 5 Lift your chest.\r\n\r\nLift your chest.
+    This will help stretch out your back fully. At this point, your knees should
+    be bent and your weight evenly distributed between your feet, shoulders, and
+    upper arm area.\r\n\r\n    Your neck should be able to move freely, but do not
+    turn your head in bridge pose).\r\n    Keep your feet parallel and flat on the
+    ground, and keep your thighs aligned and slightly apart.\r\n    Hold bridge pose
+    in this way for at least one minute, or go on to one of the variations.\r\n\r\nStep
+    6 Bring your hands together under your body.\r\n\r\nBring your hands together
+    under your body. This is one minor variation of bridge pose. Because your weight
+    is on your shoulders and upper arms, you should be able to bring your palms together
+    under your body and clasp your hands together.\r\n\r\n    Keep your arms extended
+    and pressed into the mat as you do this. Make sure your palms are touching.\r\n\r\nStep
+    7 Try the single-leg variation.\r\n\r\nTry the single-leg variation. Another
+    version of bridge pose involves lifting one knee at a time while maintaining
+    the pose. With your arms flat on the ground or together under your body, lift
+    one foot off the ground and bring your knee in toward your chest.\r\n\r\n   
+    Hold this for 30 seconds before putting your foot back on the ground and repeating
+    with the other leg.\r\n    Don\u2019t let your hips or buttocks drop toward the
+    ground when you're on one foot.\r\n\r\nStep 8 Release from bridge pose.\r\n\r\nRelease
+    from bridge pose. Unclasp your hands and place your arms beside your body again,
+    palms flat on the ground. Slowly, and with control, lower your chest and back,
+    starting at the neck and working your way down your spine until your bottom is
+    on the ground again."
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: 6ddc99a0cd0e2a44fbb7997ebf801d67, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: dfbe359984d29b34ca458ad4edc6181f, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 7
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: 8107daa7e3e5e4249b711de4c05bf1e5, type: 3}
   <BodyPartIcon>k__BackingField: {fileID: 21300000, guid: e4e679a073ab8f94196de1c34864b8cf, type: 3}

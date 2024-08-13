@@ -13,11 +13,34 @@ MonoBehaviour:
   m_Name: Hands
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Hands massage
-  <TimeInMinutes>k__BackingField: 0
-  <MediaText>k__BackingField: 
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: aec3cb19bde6d104e8eb3a524466f246, type: 3}
+  <TimeInMinutes>k__BackingField: 10
+  <MediaText>k__BackingField: "Step 1\r\nRemember to breathe. As you do all these
+    techniques, breathe in through your nose while expanding your diaphragm (belly-breathing),
+    and out through the mouth. Breathing is as important as the massage itself, and
+    it may be wise to take ten of these deep breaths prior to and after the massage.\n\r\nStep
+    2 Use your thumb to do most of the work.\r\n\r\nUse your thumb to do most of
+    the work. Start by holding out one of your hands, keeping your fingers straight.
+    Then, wrap your opposite hand's fingers around the back of your hand with your
+    fingers facing straight up. Your thumb should be laying on your palm, and pointing
+    towards you\n\r\nStep 3 Move your thumb along the edges of your palm.\r\n\nMove
+    your thumb along the edges of your palm. This technique is most effective at
+    massaging the pads of your palms just under your fingers and thumb, and the entire
+    edge of your hand. Compress your palm with your thumb, using short, caterpillar-like
+    movements, going up and down, and working your way from the inside to the outside
+    of your palm.\r\n\r\n    Apply the amount of pressure you are comfortable with.
+    Start off using light pressure, and then work your way towards a deeper massage.\r\n   
+    This will help you find tender, sore, or tight spots.\r\n\r\nStep 4 Locate the
+    bones in the hand.\r\n\r\nLocate the bones in the hand. They will be long, like
+    a continuation of the fingers through the palm. Pinch the base of the hand, in
+    between the bones, and glide upwards. Continue using short strokes when rubbing.\n\r\nStep
+    5 Include your fingers.\r\n\r\nInclude your fingers. When you reach the finger,
+    continue to pinch up the finger with a firm pressure. Inch your thumb up and
+    down each finger, starting at the balls, and working your way up slowly to the
+    tip of your finger.\r\n\r\n    Squeeze along the sides of your fingers, too.
+    Repeat this for every finger.\r"
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: 8d7d739bef352d44ea8a8cc2ce94acaa, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: e34d4fac3929790419947324d877fa5a, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 8
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: 8107daa7e3e5e4249b711de4c05bf1e5, type: 3}
   <BodyPartIcon>k__BackingField: {fileID: 21300000, guid: 22d0caa6ca99db146b2e204a80f1200d, type: 3}

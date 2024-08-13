@@ -12,12 +12,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd9fc4e120363c44494b563096b270ea, type: 3}
   m_Name: Belly
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Belly massage
+  <Name>k__BackingField: Twisting crunches
   <TimeInMinutes>k__BackingField: 20
-  <MediaText>k__BackingField: 
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: aec3cb19bde6d104e8eb3a524466f246, type: 3}
+  <MediaText>k__BackingField: "Start laying on your back on a mat or a towel. Bring
+    your hands up by your ears and take your elbows out wide. Then elevate your feet
+    off the floor with a 90 degree bend at your hips and your knees. You want your
+    thighs to be vertical and your shins to be parallel to the floor. This is the
+    start position.\r\n\r\nThen, keeping your lower back pressed down into the floor,
+    tuck your chin to your chest, draw your belly button down and contract your abdominals
+    to roll your upper spine up off the floor. At the same time, using your obliques,
+    twist your upper body to the left so that your right shoulder and elbow rotate
+    across towards your left knee. From here lower yourself back to the floor by
+    rolling your spine back down to the floor, and return your right shoulder to
+    the floor and right elbow back out to the wide starting position. Repeat the
+    same crunch and twist motion, this time bringing the left shoulder and elbow
+    across to the right knee and lower back down to centre. This is one complete
+    repetition. Keep your legs elevated and repeat the twisting crunches for the
+    duration of the exercise, always finish on the opposite side to the side you
+    started on.\r\n\r\nWatch out for the temptation to let your feet lower towards
+    the floor, or for your knees to get drawn in towards the chest, allowing your
+    hip-flexors to take over in the movement, which we don\u2019t want.\r\n\r\nIf
+    you want to dial the intensity down a little, try resting your feet up on a chair,
+    step or bench."
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: a14994b7f22033746ba5544f7ba7706a, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 17359048e17192f49925b227042a7ba5, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 11
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: fee1e4c9f95a03d4aa52fe344f979061, type: 3}
   <BodyPartIcon>k__BackingField: {fileID: 21300000, guid: 6106a2f08e27853438ca9a7b24ddfd3f, type: 3}

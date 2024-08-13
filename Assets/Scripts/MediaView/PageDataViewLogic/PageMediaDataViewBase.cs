@@ -1,4 +1,5 @@
-﻿using TMPro;
+﻿using System.Timers;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using Zenject.Asteroids;
@@ -34,7 +35,10 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
     public virtual void UnboxMediaViewWhenPageOpen()
     {
         _headerNameView.text = _core.Data.Name;
-        _videoIconView.sprite = _core.Data.VideoPrew;
+        if (_core.Data.VideoPrew != null)
+            _videoIconView.sprite = _core.Data.VideoPrew;
+        else
+            _videoIconView.sprite = null;
         _iconView.sprite = _core.Data.Icon;
         _typeInPageView.text = _core.Data.Type.ToString();
         _timeInPage.text = _core.Data.TimeInMinutes.ToString() + " min";

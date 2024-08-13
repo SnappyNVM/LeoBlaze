@@ -12,12 +12,76 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3f2630266e63d94d9b5ebb23e6134a1, type: 3}
   m_Name: Varniskes
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: 'Chinese character varniskes '
+  <Name>k__BackingField: Pearl risotto with peas and leeks
   <TimeInMinutes>k__BackingField: 25
-  <MediaText>k__BackingField: "NO RECIPE YOU'RE NOT DESERVE TO EAT IT AHAHA ;) \nGO
-    HELP SOMEBODY TO KEEP HIMSELF ALIVE!\nAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHAH"
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 0461f220b998c484097a9b4a175e511e, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: 1adbf816b9cbc264f8ca7a452b6ad63f, type: 3}
+  <MediaText>k__BackingField: 'Ingredients
+
+    
+
+    This recipe serves 2-3 people.
+
+    200g
+    x Arborio Rice
+
+    2 x Small Onions (diced)
+
+    1 x Stick of Celery
+
+    1
+    x Large Leek (sliced)
+
+    2 x Cloves of Garlic (minced)
+
+    150g x Frozen
+    peas
+
+    1 litre x Veg stock (Approx)
+
+    50g x Parmesan Cheese (finely grated)
+
+    20g
+    x Butter (optional)
+
+    2 tbsp x Olive Oil
+
+    Sea Salt and Black Pepper
+
+    
+
+    Method
+
+    
+
+    1.
+    Start by bringing a pan of water to the boil. This will be for the veg stock.
+
+    2.
+    Prepare all of the vegetables.
+
+    3. Add two tablespoons of olive oil to a
+    large pan and begin to sweat down the onions, celery and garlic over medium heat
+    until soft.
+
+    4. Next add the arborio rice and stir until every grain of
+    rice is coated with oil.
+
+    5. Begin to add the vegetable stock one ladle
+    at a time, stirring continuously. Once the stock has absorbed into the rice,
+    add the next ladle. Repeat until the rice is soft with a slight bite to it (al
+    dente).
+
+    6. Add in the sliced leeks followed by the peas and cook for a
+    further 3-5 minutes.
+
+    7. Stir in the butter (if using) followed by the grated
+    Parmesan. Check the seasoning and alter with sea salt and black pepper if needed.
+    Serve to finish with a final grating of parmesan and cracked black pepper.
+
+    
+
+    Enjoy!'
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: c4ce2d52a463e23489e13837306ae8d7, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 5435fb25c69515a489f4a2100dc83263, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 21300000, guid: 114a8985c7993f642ac40e10e8940f0a, type: 3}
   <Type>k__BackingField: 2
   <Calories>k__BackingField: 220/100 g

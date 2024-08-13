@@ -13,11 +13,40 @@ MonoBehaviour:
   m_Name: Neck
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Neck massage
-  <TimeInMinutes>k__BackingField: 55
-  <MediaText>k__BackingField: 
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 1a2e0fadd0051d34ebee6c3df298423b, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: aec3cb19bde6d104e8eb3a524466f246, type: 3}
+  <TimeInMinutes>k__BackingField: 20
+  <MediaText>k__BackingField: "\rStep 1\n\nPlace your partner in a comfortable seated
+    position. What's important is that their back can be comfortably straight. You
+    must also be able to access their shoulders and upper back.\r\nUse a stool that
+    gives you full access to their back.\r\nIf you use a chair, make sure the back
+    of the chair is low enough to give you access to the back of their shoulders.\r\nIf
+    you don't have an appropriate chair or stool available, place a comfortable cushion
+    on the ground. Have your partner sit cross-legged on the ground while you kneel
+    behind them.\n\r\nStep 2 Use light, long strokes.\r\n\r\r\nUse light, long strokes.
+    When we think of massages, most of us immediately think of the Swedish massage.
+    It uses long, gentle motions along the surface of the muscles instead of the
+    intense pressure of a style like the deep tissue massage.\r\nWhen you find tension
+    knots, you can apply focused pressure.\r\nFor the most part, though, keep the
+    pressure firm but not intense.\n\r\nStep 3 Warm the muscles up.\n\r\r\nWarm the
+    muscles up. Rushing into intense massaging before warming up the muscles can
+    cause your partner to tense up even more under your touch. Ease into the massage
+    by using your fingertips to loosen up and prepare the neck and shoulders. This
+    will put them in the frame of mind to relax into the experience.\r\nPlace the
+    ring, middle, and index fingertips of your hands where the base of your partner's
+    head meets the neck. Apply light but firm pressure.\r\nIf that feels uncomfortable,
+    use whichever fingertips feel right to you. You might use just index and middle
+    fingers.\r\nSlide your fingers down the sides of their neck, sweeping over onto
+    the shoulders.\r\nMake sure to apply even pressure throughout, running your fingers
+    over the muscles.\n\r\nStep 4 Knead your thumbs into the tense muscles.\r\n\r\nKnead
+    your thumbs into the tense muscles. In the previous step, you may have felt hard
+    knots in the muscles. These knots indicate tension, and they need focused pressure
+    from your thumbs.\r\nPlace your thumbs on the tension knot.\r\nPlace your other
+    four fingers on each hand on the front of your partner's shoulder to stabilize
+    your thumbs when you apply pressure.\r\nApply firm pressure with your thumbs
+    in a kneading, circular motion to release the tension in the muscles.\r\nDo this
+    throughout the shoulder muscles, but especially on tension knots.\r"
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: 5ec177e923b956f45873a5e3446047b4, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 102d8302562e5054ca583faa1b2e1514, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 0}
   <Type>k__BackingField: 9
   <StarsIcon>k__BackingField: {fileID: 21300000, guid: fee1e4c9f95a03d4aa52fe344f979061, type: 3}
   <BodyPartIcon>k__BackingField: {fileID: 21300000, guid: 9959aa5c960b88940b1a8007d6214522, type: 3}

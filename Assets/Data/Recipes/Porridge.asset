@@ -12,25 +12,59 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3f2630266e63d94d9b5ebb23e6134a1, type: 3}
   m_Name: Porridge
   m_EditorClassIdentifier: 
-  <Name>k__BackingField: Stockholm green buckwheat porridge
+  <Name>k__BackingField: Raw buckwheat porridge
   <TimeInMinutes>k__BackingField: 25
-  <MediaText>k__BackingField: 'Ingredients:
+  <MediaText>k__BackingField: '1 cup / 240 ml raw hulled buckwheat groats (whole
+    or coarsely ground) + water for soaking
 
-    Long-grain rice - 2 cooking sachets
-    / 160 g
+    1 cup / 240 ml raw walnuts + water
+    for soaking
 
-    Pumpkin (pulp) - 300 g
+    2 green apples, cored
 
-    Salad mix - 100 g
+    1 orange, juice
 
-    Sesame seeds
-    - 2 tbsp.
+    1/2 tsp ground
+    cardamom
 
-    Olive oil - 3 tbsp.
+    1/2 tsp vanilla extract or ground vanilla
 
-    Spice mix, salt, pepper to taste'
-  <MediaVideo>k__BackingField: {fileID: 32900000, guid: deee3485dde75c04fb66cb6f9fd33dbd, type: 3}
-  <Icon>k__BackingField: {fileID: 21300000, guid: 0461f220b998c484097a9b4a175e511e, type: 3}
-  <VideoPrew>k__BackingField: {fileID: 21300000, guid: 1adbf816b9cbc264f8ca7a452b6ad63f, type: 3}
+    
+
+    Topping
+
+    berries
+
+    pomegranate
+
+    bee
+    pollen
+
+    cacao nibs
+
+    coconut flakes
+
+    nut butter
+
+    
+
+    Place
+    buckwheat and nuts in two separate bowls, cover with water and let soak for minimum
+    1 hour or overnight. Rinse and drain. Place all ingredients in a food processor
+    and blend until smooth. You can also use an immersion blender.
+
+    
+
+    Top
+    with fresh berries or pomegranate, bee pollen, cacao nibs, coconut flakes and
+    nut butter. Or whatever you have at home.
+
+    
+
+    Keeps for 3-4 days in
+    the fridge.'
+  <MediaVideo>k__BackingField: {fileID: 32900000, guid: 90b6287ba49461e41978de9ebb2e8e17, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 3d89729e938a87647aa5724df69d75dd, type: 3}
+  <VideoPrew>k__BackingField: {fileID: 21300000, guid: c7b03b26186d0774bae55ac295e66cb4, type: 3}
   <Type>k__BackingField: 1
   <Calories>k__BackingField: 147/100 g
