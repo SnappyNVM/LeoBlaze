@@ -23,10 +23,24 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
     [SerializeField] public VideoPanel _videoPanel;
     [SerializeField] public GameObject _specialRecipeOnPageStuff;
 
+    private void Awake() => 
+        GetComponent<Button>().onClick.AddListener(UnboxMediaViewWhenPageOpen);
+
     public virtual void UnboxMediaViewInList()
     {
         Debug.Log(nameof(UnboxMediaViewInList) + " of " + _core.Data.name);
-        _nameView.text = _core.Data.Name;
+        switch(LanguagesContainer.GameLanguage)
+        {
+            case Languages.Russian:
+                _nameView.text = _core.Data.NameRu;
+                break;
+            case Languages.English:
+                _nameView.text = _core.Data.Name;
+                break;
+            case Languages.Brazilian:
+                _nameView.text = _core.Data.NameBr;
+                break;
+        }
         _timeInMinutesView.text = _core.Data.TimeInMinutes.ToString() + " min";
         _iconView.sprite = _core.Data.Icon;
         _typeView.text = _core.Data.Type.ToString();
@@ -34,7 +48,18 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
 
     public virtual void UnboxMediaViewWhenPageOpen()
     {
-        _headerNameView.text = _core.Data.Name;
+        switch (LanguagesContainer.GameLanguage)
+        {
+            case Languages.Russian:
+                _headerNameView.text = _core.Data.NameRu;
+                break;
+            case Languages.English:
+                _headerNameView.text = _core.Data.Name;
+                break;
+            case Languages.Brazilian:
+                _headerNameView.text = _core.Data.NameBr;
+                break;
+        }
         if (_core.Data.VideoPrew != null)
             _videoIconView.sprite = _core.Data.VideoPrew;
         else
@@ -54,7 +79,18 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
 
     private void SetScrollTextContent()
     {
-        _mediaTextView.text = _core.Data.MediaText;
+        switch (LanguagesContainer.GameLanguage)
+        {
+            case Languages.Russian:
+                _mediaTextView.text = _core.Data.MediaTextRu;
+                break;
+            case Languages.English:
+                _mediaTextView.text = _core.Data.MediaText;
+                break;
+            case Languages.Brazilian:
+                _mediaTextView.text = _core.Data.MediaTextBr;
+                break;
+        }
         Canvas.ForceUpdateCanvases();
         _textScrollRectContent.sizeDelta = new Vector2(_textScrollRectContent.sizeDelta.x, _mediaTextView.preferredHeight + 50);
         _textScrollRectContent.anchoredPosition = new Vector2(_textScrollRectContent.anchoredPosition.x, 0);

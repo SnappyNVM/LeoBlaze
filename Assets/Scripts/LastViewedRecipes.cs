@@ -9,7 +9,6 @@ namespace Assets.Scripts
         [SerializeField] private RecipePageCore _recipeViewPrefab;
         [SerializeField] private List<RecipePageCore> _datas;
         [SerializeField] private Transform _root;
-        [SerializeField] private List<RecipePageMediaHandler> _resipes;
 
         private List<RecipePageCore> _currentSpawnedRecipes = new();
         private SaverLoader _saverLoader;

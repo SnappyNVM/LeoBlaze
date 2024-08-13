@@ -6,7 +6,8 @@ using UnityEngine.Events;
 public enum Languages
 {
     English = 0,
-    Russian = 1
+    Russian = 1,
+    Brazilian = 2
 }
 
 public enum TextKeys
@@ -36,7 +37,7 @@ public class LanguagesContainer : MonoBehaviour
     private void Awake()
     {
         FillWordsDictionary();
-        ChangeLanguage((Languages)PlayerPrefs.GetInt(PlayerPrefsKeys.Language, 0));
+        ChangeLanguage((Languages)PlayerPrefs.GetInt(PlayerPrefsKeys.Language, 1));
         // To be rewritten using progress and json saves
     }
 

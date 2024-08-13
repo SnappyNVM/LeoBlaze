@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Head
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Head massage
+  <NameRu>k__BackingField: "\u041C\u0430\u0441\u0441\u0430\u0436 \u0433\u043E\u043B\u043E\u0432\u044B"
+  <NameBr>k__BackingField: "Massagem na cabe\xE7a"
   <TimeInMinutes>k__BackingField: 15
   <MediaText>k__BackingField: "\rStep 1\n\nGo slowly. When massaging the person's
     head, try to go in slow, gentle strokes. Slow strokes generally feel better than
@@ -35,6 +37,54 @@ MonoBehaviour:
     on yourself. The heels of your palms should end up over the temples. Apply light
     pressure, and push upward for a few seconds. You can use this technique all over
     the head.\r\n"
+  <MediaTextRu>k__BackingField: "Passo 1\r\n\r\nV\xE1 devagar. Ao massagear a cabe\xE7a
+    da pessoa, tente fazer movimentos lentos e suaves. Movimentos lentos geralmente
+    s\xE3o melhores do que movimentos r\xE1pidos. Al\xE9m disso, movimentos lentos
+    tendem a ser muito mais relaxantes do que movimentos r\xE1pidos.\r\nPara esse
+    tipo de massagem, \xE9 bom que a pessoa esteja sentada ou deitada.\r\n\r\nPasso
+    2 Trabalhe em pequenos c\xEDrculos.\r\n\r\nTrabalhe em pequenos c\xEDrculos.
+    Usando as pontas dos dedos, fa\xE7a movimentos circulares leves na cabe\xE7a
+    da pessoa. Mova de tr\xE1s para frente e depois de frente para tr\xE1s. Voc\xEA
+    pode passar por cima da cabe\xE7a algumas vezes com esse movimento.\r\n\r\nPasso
+    3 Massageie o pesco\xE7o.\r\n\r\nMassageie o pesco\xE7o. Com uma m\xE3o, segure
+    o pesco\xE7o da pessoa. Esfregue suavemente o pesco\xE7o com o polegar de um
+    lado e os outros dedos do lado oposto. Mova para cima e para baixo no pesco\xE7o.
+    Tente mover a pele enquanto massageia, em vez de esfregar na parte superior da
+    pele.\r\nVoc\xEA tamb\xE9m pode usar esse movimento na base da cabe\xE7a, onde
+    o cabelo come\xE7a.\r\nSe estiver se massageando, use os polegares na base da
+    cabe\xE7a. Com um polegar de cada lado da cabe\xE7a, use movimentos circulares
+    para massagear a base da cabe\xE7a. Voc\xEA carrega muita tens\xE3o aqui, ent\xE3o
+    uma massagem lenta pode ajudar.\r\n\r\nEtapa 4 Massageie a cabe\xE7a com as palmas
+    das m\xE3os.\r\n\r\nMassageie a cabe\xE7a com as palmas das m\xE3os. Passe as
+    m\xE3os sob o cabelo perto das t\xEAmporas. Voc\xEA pode usar essa t\xE9cnica
+    em outra pessoa, mas funciona t\xE3o bem quanto faz\xEA-la em voc\xEA mesmo.
+    As palmas das m\xE3os devem terminar sobre as t\xEAmporas. Aplique uma leve press\xE3o
+    e empurre para cima por alguns segundos. Voc\xEA pode usar essa t\xE9cnica em
+    toda a cabe\xE7a."
+  <MediaTextBr>k__BackingField: "Passo 1\r\n\r\nV\xE1 devagar. Ao massagear a cabe\xE7a
+    da pessoa, tente fazer movimentos lentos e suaves. Movimentos lentos geralmente
+    s\xE3o melhores do que movimentos r\xE1pidos. Al\xE9m disso, movimentos lentos
+    tendem a ser muito mais relaxantes do que movimentos r\xE1pidos.\r\nPara esse
+    tipo de massagem, \xE9 bom que a pessoa esteja sentada ou deitada.\r\n\r\nPasso
+    2 Trabalhe em pequenos c\xEDrculos.\r\n\r\nTrabalhe em pequenos c\xEDrculos.
+    Usando as pontas dos dedos, fa\xE7a movimentos circulares leves na cabe\xE7a
+    da pessoa. Mova de tr\xE1s para frente e depois de frente para tr\xE1s. Voc\xEA
+    pode passar por cima da cabe\xE7a algumas vezes com esse movimento.\r\n\r\nPasso
+    3 Massageie o pesco\xE7o.\r\n\r\nMassageie o pesco\xE7o. Com uma m\xE3o, segure
+    o pesco\xE7o da pessoa. Esfregue suavemente o pesco\xE7o com o polegar de um
+    lado e os outros dedos do lado oposto. Mova para cima e para baixo no pesco\xE7o.
+    Tente mover a pele enquanto massageia, em vez de esfregar na parte superior da
+    pele.\r\nVoc\xEA tamb\xE9m pode usar esse movimento na base da cabe\xE7a, onde
+    o cabelo come\xE7a.\r\nSe estiver se massageando, use os polegares na base da
+    cabe\xE7a. Com um polegar de cada lado da cabe\xE7a, use movimentos circulares
+    para massagear a base da cabe\xE7a. Voc\xEA carrega muita tens\xE3o aqui, ent\xE3o
+    uma massagem lenta pode ajudar.\r\n\r\nEtapa 4 Massageie a cabe\xE7a com as palmas
+    das m\xE3os.\r\n\r\nMassageie a cabe\xE7a com as palmas das m\xE3os. Passe as
+    m\xE3os sob o cabelo perto das t\xEAmporas. Voc\xEA pode usar essa t\xE9cnica
+    em outra pessoa, mas funciona t\xE3o bem quanto faz\xEA-la em voc\xEA mesmo.
+    As palmas das m\xE3os devem terminar sobre as t\xEAmporas. Aplique uma leve press\xE3o
+    e empurre para cima por alguns segundos. Voc\xEA pode usar essa t\xE9cnica em
+    toda a cabe\xE7a."
   <MediaVideo>k__BackingField: {fileID: 32900000, guid: 00f6e3fa193791e48b96d2121d76f8e7, type: 3}
   <Icon>k__BackingField: {fileID: 21300000, guid: a2e54ac2f8bef424e8447073a3a4074d, type: 3}
   <VideoPrew>k__BackingField: {fileID: 0}
