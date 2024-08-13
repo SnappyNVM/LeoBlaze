@@ -16,13 +16,18 @@ namespace Assets.Scripts
         [SerializeField] private Image _femaleGenderSprite;
         [SerializeField] private Sprite _bigMaleGenderSprite;
         [SerializeField] private Sprite _bigFemaleGenderSprite;
+        [SerializeField] private Color _onEditColor;
 
+        private Color _prevColor;
         private SaverLoader _progress;
         private bool _activeEdit = false;
 
         [Inject]
         private void Construct(SaverLoader saverLoader) =>
             _progress = saverLoader;
+
+        private void Awake() => 
+            _prevColor = _nameField.image.color;
 
         private void OnEnable()
         {
@@ -37,6 +42,18 @@ namespace Assets.Scripts
         {
             _activeEdit = !_activeEdit;
             SetEditMode();
+            if (_activeEdit)
+            {
+                _ageField.image.color = _onEditColor;
+                _nameField.image.color = _onEditColor;
+                _weightField.image.color = _onEditColor;
+            }
+            else
+            {
+                _ageField.image.color = _prevColor;
+                _nameField.image.color = _prevColor;
+                _weightField.image.color = _prevColor;
+            }
             SaveData(default);
         }
 
@@ -76,6 +93,7 @@ namespace Assets.Scripts
             _nameField.text = _progress.Progress.Name;
             _ageField.text = _progress.Progress.Age.ToString();
             _weightField.text = _progress.Progress.Weight.ToString();
+            
             if (_progress.Progress.Gender == Gender.Male)
             {
                 _maleGenderSprite.gameObject.SetActive(true);
