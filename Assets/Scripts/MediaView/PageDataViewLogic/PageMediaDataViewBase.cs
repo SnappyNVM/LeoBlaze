@@ -47,7 +47,10 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
         }
         _timeInMinutesView.text = _core.Data.TimeInMinutes.ToString() + " min";
         _iconView.sprite = _core.Data.Icon;
-        _typeView.text = "Hello";//LanguagesContainer.Instance.TagsDictionary[LanguagesContainer.GameLanguage][_core.Data.Type];
+        if (LanguagesContainer.Instance != null)
+            _typeView.text = LanguagesContainer.Instance.TagsDictionary[LanguagesContainer.GameLanguage][_core.Data.Type];
+        else
+            _typeView.text = _core.Data.Type.ToString();
     }
 
     public virtual void UnboxMediaViewWhenPageOpen()
