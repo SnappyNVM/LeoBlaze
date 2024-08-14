@@ -29,15 +29,7 @@ namespace Assets.Scripts
                 var instance = Instantiate(_recipeViewPrefab, _root);
                 instance.GetComponent<RecipePageMediaHandler>().Initialize(this);
                 instance.Data = _datas[i].Data;
-                instance.View._headerNameView = _datas[i].View._headerNameView;
-                instance.View._mediaTextView = _datas[i].View._mediaTextView;
-                instance.View._specialRecipeOnPageStuff = _datas[i].View._specialRecipeOnPageStuff;
-                instance.View._textScrollRectContent = _datas[i].View._textScrollRectContent;
-                instance.View._timeInPage = _datas[i].View._timeInPage;
-                instance.View._typeInPageView = _datas[i].View._typeInPageView;
-                instance.View._videoIconView = _datas[i].View._videoIconView;
-                instance.View._videoPanel = _datas[i].View._videoPanel;
-                (instance.View as RecipeDataView)._caloriesOnPage = (_datas[i].View as RecipeDataView)._caloriesOnPage;
+                instance.View.UnboxMediaViewInList();
 
                 instance.Initialize();
                 _currentSpawnedRecipes.Add(instance);

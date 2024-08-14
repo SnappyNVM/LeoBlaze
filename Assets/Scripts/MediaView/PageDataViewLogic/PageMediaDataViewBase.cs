@@ -2,6 +2,7 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using Zenject;
 using Zenject.Asteroids;
 
 [RequireComponent(typeof(PageMediaCoreBase))]
@@ -23,8 +24,11 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
     [SerializeField] public VideoPanel _videoPanel;
     [SerializeField] public GameObject _specialRecipeOnPageStuff;
 
-    private void Awake() => 
+    private void Awake() =>
         GetComponent<Button>().onClick.AddListener(UnboxMediaViewWhenPageOpen);
+
+    private void OnEnable() =>
+        UnboxMediaViewInList();
 
     public virtual void UnboxMediaViewInList()
     {
@@ -43,7 +47,7 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
         }
         _timeInMinutesView.text = _core.Data.TimeInMinutes.ToString() + " min";
         _iconView.sprite = _core.Data.Icon;
-        _typeView.text = _core.Data.Type.ToString();
+        _typeView.text = LanguagesContainer.Instance.TagsDictionary[LanguagesContainer.GameLanguage][_core.Data.Type];
     }
 
     public virtual void UnboxMediaViewWhenPageOpen()
@@ -65,7 +69,7 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
         else
             _videoIconView.sprite = null;
         _iconView.sprite = _core.Data.Icon;
-        _typeInPageView.text = _core.Data.Type.ToString();
+        _typeInPageView.text = LanguagesContainer.Instance.TagsDictionary[LanguagesContainer.GameLanguage][_core.Data.Type];
         _timeInPage.text = _core.Data.TimeInMinutes.ToString() + " min";
 
         _videoPanel.OnPanelOpened(_core.Data.MediaVideo);

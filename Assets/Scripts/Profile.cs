@@ -18,6 +18,8 @@ namespace Assets.Scripts
         [SerializeField] private Sprite _bigFemaleGenderSprite;
         [SerializeField] private Color _onEditColor;
 
+        private bool _viewSetted = false;
+
         private Color _prevColor;
         private SaverLoader _progress;
         private bool _activeEdit = false;
@@ -26,16 +28,19 @@ namespace Assets.Scripts
         private void Construct(SaverLoader saverLoader) =>
             _progress = saverLoader;
 
-        private void Awake() => 
+        private void Awake()
+        {
             _prevColor = _nameField.image.color;
+        } 
 
         private void OnEnable()
         {
             _genderSellector.CurrentGender = _progress.Progress.Gender;
+            DeSubscribe();
             UpdateView(default);
-            Subscribe();
             _activeEdit = false;
             SetEditMode();
+            Subscribe();
         }
 
         public void ToggleEditMode()
@@ -78,6 +83,15 @@ namespace Assets.Scripts
             _genderSellector.GenderChanged += UpdateView;
         }
 
+        private void DeSubscribe()
+        {
+            _nameField.onValueChanged.RemoveAllListeners();
+            _ageField.onValueChanged.RemoveAllListeners();
+            _weightField.onValueChanged.RemoveAllListeners();
+            _genderSellector.GenderChanged -= SaveData;
+            _genderSellector.GenderChanged -= UpdateView;
+        }
+
         private void SaveData(string arg0)
         {
             _progress.Progress.Name = _nameField.text;
@@ -108,6 +122,7 @@ namespace Assets.Scripts
 
                 _bigGenderIcon.sprite = _bigFemaleGenderSprite;
             }
+            _viewSetted = true;
         }
     }
 }
