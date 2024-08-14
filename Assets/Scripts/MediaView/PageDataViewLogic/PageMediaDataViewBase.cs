@@ -47,7 +47,7 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
         }
         _timeInMinutesView.text = _core.Data.TimeInMinutes.ToString() + " min";
         _iconView.sprite = _core.Data.Icon;
-        _typeView.text = LanguagesContainer.Instance.TagsDictionary[LanguagesContainer.GameLanguage][_core.Data.Type];
+        _typeView.text = "Hello";//LanguagesContainer.Instance.TagsDictionary[LanguagesContainer.GameLanguage][_core.Data.Type];
     }
 
     public virtual void UnboxMediaViewWhenPageOpen()
@@ -99,5 +99,8 @@ public abstract class PageMediaDataViewBase : MonoBehaviour
         _textScrollRectContent.sizeDelta = new Vector2(_textScrollRectContent.sizeDelta.x, _mediaTextView.preferredHeight + 50);
         _textScrollRectContent.anchoredPosition = new Vector2(_textScrollRectContent.anchoredPosition.x, 0);
     }
+
+    public void SubscribeToUpdate(Button button) =>
+        button.onClick.AddListener(UnboxMediaViewWhenPageOpen);
 }
 
